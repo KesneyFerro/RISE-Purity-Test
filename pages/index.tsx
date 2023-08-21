@@ -136,7 +136,7 @@ const Home: NextPage = () => {
             <span className="text-[#f7cb48]">not a bucket list</span>.
             Completion of all items on this test likely mean you enjoy a{" "}
             <span className="text-[#f7cb48]">little bit too much</span> your
-            time in the RRS and broke some rules. But don't worry,{" "}
+            time in the RRS and broke some rules. But don&apos;t worry,{" "}
             <span className="text-[#f7cb48]">we are not here to judge</span>.
           </h2>
         </div>
