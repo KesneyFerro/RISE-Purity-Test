@@ -126,17 +126,18 @@ const Home: NextPage = () => {
             <span className="text-[#f7cb48]">RISE</span> Purity Test
           </h1>
           <h2 className="text-white text-md font-medium mt-5">
-            The intention of this test is to measure{" ("}
+            The purpose of this test is to measure{" ("}
             <span className="text-[#f7cb48]">anonymously</span>
-            {")"}, in a not so trustworthy scale, how adventurous you were
+            {")"}, on a somewhat unreliable scale, how adventurous you were
             during the <span className="text-[#f7cb48]">RRS</span>
           </h2>
           <h2 className="text-white text-lg font-bold mt-8">
             Caution: This is{" "}
             <span className="text-[#f7cb48]">not a bucket list</span>.
-            Completion of all items on this test likely mean you enjoy a{" "}
-            <span className="text-[#f7cb48]">little bit too much</span> your
-            time in the RRS and broke some rules. But don&apos;t worry,{" "}
+            Completing all the items on this test likely means you enjoyed your
+            time in the RRS a{" "}
+            <span className="text-[#f7cb48]">little bit too much</span> and may
+            have broken some rules. But don&apos;t worry,{" "}
             <span className="text-[#f7cb48]">we are not here to judge</span>.
           </h2>
         </div>

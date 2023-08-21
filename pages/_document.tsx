@@ -4,18 +4,17 @@ export default function Document() {
   return (
     <Html lang="en">
       <Head>
-        <meta property="og:title" content="Meus Desabafos" />
+        <meta property="og:title" content="RISE Purity Test" />
         <meta property="og:locale" content="pt_BR"></meta>
-        <meta property="og:site_name" content="Meus Desabafos"></meta>
-        <meta property="og:url" content="https://jaospace.vercel.app/" />
+        <meta property="og:site_name" content="RISE Purity Test"></meta>
+        <meta
+          property="og:url"
+          content="https://rise-purity-test.vercel.app/"
+        />
         <meta property="og:type" content="website"></meta>
         <meta
           property="og:description"
-          content="Eu decidi criar este site pessoal para ter um espaço onde pudesse
-            registrar meus desabafos e memórias de forma organizada. Sinto que
-            compartilhar essas histórias e sentimentos me ajuda a lidar com meus
-            pensamentos e emoções, além de permitir que eu volte no tempo e
-            reviva momentos especiais da minha vida."
+          content="Let's take some time to think about what happened during the RRS and how Well-behaved you were"
         ></meta>
         {/* <meta property="og:image" content="/icon.png" /> */}
         <meta name="theme-color" content="#19191e"></meta>
